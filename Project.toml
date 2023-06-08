@@ -1,0 +1,13 @@
+name = "HTEBoost"
+uuid = "ec5d53b6-e353-4b0b-af64-d55bb7f5417a"
+authors = ["Bérénice-Alexia Jocteur"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
